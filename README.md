@@ -1,11 +1,5 @@
-# Ceren's Data Science Portfolio
-Repository of my data science projects including
+In this project, I analyzed the HackerNews dataset hosted on Google Big Query.
 
-- Code behind my articles on [Medium](https://medium.com/@cereniyim)
-- Machine learning projects
-  - Supervised
-  - Unsupervised
-- Exploratory data analysis projects
-- Codecademy capstone projects
+I used SQL for querying the datasets and Python 3 for visualization of the results.
 
-
+Original notebook is available in this [Kaggle Kernel](https://www.kaggle.com/cereniyim/rise-of-hackernews).
